@@ -1,0 +1,191 @@
+body {
+	background-color: #0b090e;
+	color: #ded8ed;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 1.6;
+	margin: 0;
+	padding: 0;
+}
+
+#main-content {
+	width: 780px;
+	margin: 25px auto;
+	background-color: #17141f;
+	border: 1px solid #2d263a;
+	padding: 30px 40px;
+}
+
+#site-header {
+	margin-bottom: 20px;
+}
+
+h1 {
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: 26px;
+	font-weight: normal;
+	color: #ffffff;
+	margin: 0 0 6px 0;
+}
+
+.site-subtitle {
+	color: #928a9f;
+	font-size: 14px;
+	margin: 0;
+}
+
+.nav-bar {
+	border-top: 1px solid #2d263a;
+	border-bottom: 1px solid #2d263a;
+	padding: 8px 0;
+	margin-top: 15px;
+	margin-bottom: 25px;
+}
+
+.nav-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.nav-item {
+	display: inline-block;
+	margin-right: 18px;
+}
+
+.nav-link {
+	color: #a476ed;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.nav-link:hover {
+	text-decoration: underline;
+	color: #be9bf7;
+}
+
+h2 {
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: 20px;
+	font-weight: normal;
+	color: #ffffff;
+	border-bottom: 1px solid #2d263a;
+	padding-bottom: 6px;
+	margin-top: 25px;
+	margin-bottom: 14px;
+}
+
+h3 {
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: 17px;
+	font-weight: normal;
+	color: #a476ed;
+	margin-top: 20px;
+	margin-bottom: 6px;
+}
+
+p {
+	margin-top: 0;
+	margin-bottom: 12px;
+}
+
+a {
+	color: #a476ed;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #be9bf7;
+}
+
+ul {
+	margin-top: 0;
+	margin-bottom: 16px;
+	padding-left: 22px;
+}
+
+li {
+	margin-bottom: 5px;
+}
+
+.main-image {
+	width: 100%;
+	border: 1px solid #2d263a;
+	margin-top: 15px;
+	margin-bottom: 6px;
+}
+
+.image-caption {
+	font-size: 12px;
+	color: #8c8398;
+	font-style: italic;
+	margin-bottom: 20px;
+}
+
+.mission-entry {
+	border-bottom: 1px solid #252030;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+}
+
+.mission-meta {
+	font-size: 13px;
+	color: #928a9f;
+	margin-bottom: 8px;
+}
+
+.planets-table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+
+.planets-table th,
+.planets-table td {
+	border: 1px solid #2d263a;
+	padding: 8px 10px;
+}
+
+.planets-table th {
+	background-color: #241e30;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.table-row-alt {
+	background-color: #1b1724;
+}
+
+.author-block {
+	background-color: #120f18;
+	border: 1px solid #2d263a;
+	padding: 12px 16px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+
+#site-footer {
+	border-top: 1px solid #2d263a;
+	margin-top: 35px;
+	padding-top: 15px;
+	font-size: 12px;
+	color: #837b90;
+}
+
+#site-footer p {
+	margin: 0;
+}
